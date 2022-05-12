@@ -1,0 +1,50 @@
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:app:Application Has Been Created
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:app:Application Has Been Created
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-198-901
+INFO:app.home.home_blueprints:Home  Route Called But system was not in Session
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:19] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:19] "GET /signin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:20] "[33mGET /fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:20] "GET /static/js/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:20] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:20] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:20] "GET /static/images/signup-bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:21] "GET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:21] "GET /static/fonts/montserrat/Montserrat-Medium.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:21] "GET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/May/2022 22:51:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-198-901
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\Desktop\\Fiver\\America_Client\\Bebu\\bebu_project_4\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Application Has Been Created
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:app:Application Has Been Created
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-198-901
+INFO:app:Application Has Been Created
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:app:Application Has Been Created
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-198-901
+INFO:app:Application Has Been Created
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
